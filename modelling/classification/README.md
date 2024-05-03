@@ -51,9 +51,9 @@ In this project, I have implemented several classification algorithms from scrat
 
   ## 1. Artificial Neural Network (ANN)
   
-  To understand theory go to my notes at following link : https://docs.google.com/document/d/1cJL0vdMGqBDkdYbNuErdre0F0NtuCVn87-3xMsHAWfM/edit?usp=sharing
+  To understand theory go to my notes at following link : [theory](https://docs.google.com/document/d/1bHPovrn3Zq71snFzlspmN2UnVsj5bXiQPvju1XSURfs/edit?usp=drive_link)
  
-  Dataset can be found at following link : https://drive.google.com/file/d/1WA45oguNvTvWYJgCxRdq6vUdlmM57psl/view?usp=sharing
+  Dataset can be found at following link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/dataset_NN.csv)
   
-  Please refer to following link for entire code implementation : https://colab.research.google.com/drive/1pfROS2lbTmh0sEC0T8IMyQJiIdsRBcAJ?usp=sharing
+  Please refer to following link for entire code implementation : [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multivariate-ANN.ipynb)
   
