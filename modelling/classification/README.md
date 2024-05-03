@@ -19,19 +19,18 @@ In this project, I have implemented several classification algorithms from scrat
   This project teaches us how actually logistic regression algorithm is used to solve classification problems and how it is written in the sklearn library and the indepth mathematical intuition behind this algorithm 
   because I have implemented this algorithm from scratch.
 
-  The entire theory for the implementation of can be understood by referring to my notes at following link (recommended as must read) :
-  https://drive.google.com/drive/folders/1M9TUIqTUfHXr-YdaDzDNchCqjjTHYZQL?usp=sharing
+  The entire theory for the implementation of can be understood by referring to my notes at following link (recommended as must read) : [theory](https://drive.google.com/drive/folders/1M9TUIqTUfHXr-YdaDzDNchCqjjTHYZQL?usp=sharing)
   
-  The dataset used can be found at this link :
-  https://drive.google.com/file/d/1Zsq9EaBKmHXCNHAYmVJyPyanmlJ8FuVL/view?usp=sharing
+  The dataset used can be found at this link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/dataset_LR.csv)
 
   By reading the theory you might have understood that ultimately the algorithm reduces to solving a convex unconstrained nonlinear optimization problem and we know there are several ways to solve this optimization 
   problem problem so here we will be solving this optimization problem via these methods from scratch:
   1. Gradient Descent
   2. Stochastic Gradient Descent
    
-  The code for the implementation from scratch can be found at following link (open with google colab). Please refer to the pdf above named 'Logistic Regression (LR)' to understand code design and result analysis : 
-  https://drive.google.com/file/d/1J1k48HqeuUGv13w-RyXube0h30sNpcS5/view?usp=sharing
+  The code for the implementation from scratch can be found at following link : [Code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-Logistic-Regression/code.ipynb) 
+  
+  Please refer to the pdf above named 'Logistic Regression (LR)' to understand code design and result analysis : [Report](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-Logistic-Regression/report.pdf)
   
   ## 3. Artificial Neural Network (ANN)
   
