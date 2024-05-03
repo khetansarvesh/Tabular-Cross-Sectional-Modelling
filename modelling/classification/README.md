@@ -8,11 +8,11 @@ In this project, I have implemented several classification algorithms from scrat
 
   The entire theory for the implementation can be understood by referring to my notes at following link (recommended as must read) : [theory](https://drive.google.com/drive/folders/1iXqW0q5vK3k1nb-agum3JACXigii7xCB?usp=sharing)
 
-  The dataset used can be found at this link : (dataset)[https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/dataset_FLD.csv]
+  The dataset used can be found at this link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/dataset_FLD.csv)
 
   The code for the implementation from scratch can be found at following link (open with google colab) : [Code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-FLDA/code.ipynb)
   
-  Please refer to the pdf above named 'Linear Discriminant Analysis (LDA)' to understand code design and result analysis : (report)[https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-FLDA/report.pdf] 
+  Please refer to the pdf above named 'Linear Discriminant Analysis (LDA)' to understand code design and result analysis : [report](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-FLDA/report.pdf)
   
   
   ## 2. Logistic Regression (LR)
