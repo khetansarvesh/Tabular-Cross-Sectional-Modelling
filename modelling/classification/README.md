@@ -6,15 +6,13 @@ In this project, I have implemented several classification algorithms from scrat
   This project teaches us how actually the multiple Fisher’s Linear Discriminant Analysis (FLDA) (also called simply as linear discriminant analysis (LDA)) algorithm is used to solve the classification problem and how 
   it is written in the sklearn library and the indepth mathematical intuition behind this algorithm because i have implemented this algorithm from scratch
 
-  The entire theory for the implementation can be understood by referring to my notes at following link (recommended as must read) :
-  https://drive.google.com/drive/folders/1iXqW0q5vK3k1nb-agum3JACXigii7xCB?usp=sharing
+  The entire theory for the implementation can be understood by referring to my notes at following link (recommended as must read) : [theory](https://drive.google.com/drive/folders/1iXqW0q5vK3k1nb-agum3JACXigii7xCB?usp=sharing)
 
-  The dataset used can be found at this link :
-  https://drive.google.com/file/d/13YiTLBijscuQuIS2OvandXh5C_iJ-DxK/view?usp=sharing
+  The dataset used can be found at this link : (dataset)[https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/dataset_FLD.csv]
 
-  The code for the implementation from scratch can be found at following link (open with google colab). Please refer to the pdf above named 'Linear Discriminant Analysis (LDA)' to understand code design and result 
-  analysis.  :
-  https://drive.google.com/file/d/1b57Ou99mVODOK9YEPrwfYKamgnXc1ek6/view?usp=sharing
+  The code for the implementation from scratch can be found at following link (open with google colab) : [Code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-FLDA/code.ipynb)
+  
+  Please refer to the pdf above named 'Linear Discriminant Analysis (LDA)' to understand code design and result analysis : (report)[https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-FLDA/report.pdf] 
   
   
   ## 2. Logistic Regression (LR)
