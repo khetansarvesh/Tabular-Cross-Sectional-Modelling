@@ -34,6 +34,14 @@ In this project, I have implemented several classification algorithms from scrat
 
   ## 3. Artificial Neural Network (ANN)
 
+  ## 4. Linear Classification 
+  
+  ## 5. Naive Bayes
+
+  ## 6. SVM
+
+
+
 
 
 
