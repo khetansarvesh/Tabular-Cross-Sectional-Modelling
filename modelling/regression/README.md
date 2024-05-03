@@ -1,6 +1,6 @@
 # Regression - From Scratch
 Here I have implemented algorithms from scratch to solve the regression problem.Following are the algorithms that I have implemented
-## 1. Linear Regression
+## 1. Multiple Linear Regression
 This project teaches us how actually the multiple linear regression algorithm is used to solve the regression problem and how it is written in the sklearn library and the indepth mathematical intuition behind this
 algorithm because I have implemented this algorithm from scratch.
 
@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1lg1lSNXtWzspaQlizsdUUUGk10UXLtMK/view?usp=shari
 
 Please refer to the pdf uploaded above to understand code design and result analysis.
 
-## 2. Polynomial Regression
+## 2. Multiple Polynomial Regression
 
 **Theory (my notes) on this topic can be found here (recommended read to understand the code)** : 
 https://drive.google.com/drive/folders/1Mq-nsigZpoJCAnGLmD5miYpBDLo4Kspn?usp=sharing
