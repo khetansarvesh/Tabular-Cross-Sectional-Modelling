@@ -20,12 +20,10 @@ Please refer to the report to understand code design and result analysis : [repo
 
 ## 2. Multiple Polynomial Regression
 
-**Theory (my notes) on this topic can be found here (recommended read to understand the code)** : 
-https://drive.google.com/drive/folders/1Mq-nsigZpoJCAnGLmD5miYpBDLo4Kspn?usp=sharing
+**Theory (my notes) on this topic can be found here (recommended read to understand the code)** : [theory](https://drive.google.com/drive/folders/1Mq-nsigZpoJCAnGLmD5miYpBDLo4Kspn?usp=sharing)
 
 **Here I have implemented 'lasso regression' and 'ridge regression' to curb overfitting**
 
-**Dataset used in this algorithm can be found here :**
-https://drive.google.com/file/d/1XnEyniJ7DZ57Kx3ccnJ8sRUfvmcoZB2S/view?usp=sharing
+**Dataset used in this algorithm can be found here :** [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/insurance.txt)
 
-**Code Implementation can be found [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Multiple-Polynomial-Regression.ipynb) :** 
+**Code Implementation can be found [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Multiple-Polynomial-Regression.ipynb) :** 
