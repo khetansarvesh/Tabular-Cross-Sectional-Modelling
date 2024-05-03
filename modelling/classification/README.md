@@ -36,25 +36,25 @@ In this project, I have implemented several classification algorithms from scrat
   [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/ANN.ipynb)
 
   ## 4. Linear Classification 
-  [theory](https://drive.google.com/drive/folders/1fYDGW2f-6wSun9jIvSPr84tP63uOcEH5?usp=drive_link)
+  To understand theory go to my notes at following link : [theory](https://drive.google.com/drive/folders/1fYDGW2f-6wSun9jIvSPr84tP63uOcEH5?usp=drive_link)
   
-  [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/flower_dataset.csv)
+  Dataset can be found at following link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/flower_dataset.csv)
   
-  [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-Linear-Classification.ipynb)
+  Please refer to following link for entire code implementation : [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-Linear-Classification.ipynb)
   
   ## 5. Naive Bayes
-  [theory](https://drive.google.com/drive/folders/1RaNS5fP1FfIuJ6puErvO3laei80jE0np?usp=drive_link)
+  To understand theory go to my notes at following link : [theory](https://drive.google.com/drive/folders/1RaNS5fP1FfIuJ6puErvO3laei80jE0np?usp=drive_link)
   
-  [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/indians-diabetes.csv)
+  Dataset can be found at following link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/indians-diabetes.csv)
   
-  [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/NaiveBayes.ipynb)
+  Please refer to following link for entire code implementation : [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/NaiveBayes.ipynb)
 
   ## 6. SVM
-  [theory](https://drive.google.com/drive/folders/1scKU4GQR0qPLD3jWdSEVjWv9LsCL9Ddr?usp=drive_link)
+  To understand theory go to my notes at following link : [theory](https://drive.google.com/drive/folders/1scKU4GQR0qPLD3jWdSEVjWv9LsCL9Ddr?usp=drive_link)
   
-  [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/flower_dataset.csv)
+  Dataset can be found at following link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/flower_dataset.csv)
   
-  [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/SVM.ipynb)
+  Please refer to following link for entire code implementation : [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/SVM.ipynb)
 
 
 
