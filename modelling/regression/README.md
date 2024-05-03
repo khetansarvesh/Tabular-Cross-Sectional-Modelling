@@ -27,3 +27,9 @@ Here I have implemented 'lasso regression' and 'ridge regression' to curb overfi
 Dataset used in this algorithm can be found here : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/insurance.txt)
 
 Code Implementation can be found [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Multiple-Polynomial-Regression.ipynb)
+
+## 3. Artificial Neural Network (ANN)
+Code Implementation can be found [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/ANN.ipynb)
+
+## 4. Decision Tree Regression
+Code Implementation can be found [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Decision-Tree-Regression.ipynb)
