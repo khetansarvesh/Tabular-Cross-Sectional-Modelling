@@ -6,7 +6,7 @@ In this project, I have implemented several classification algorithms from scrat
   This project teaches us how actually the multiple Fisher’s Linear Discriminant Analysis (FLDA) (also called simply as linear discriminant analysis (LDA)) algorithm is used to solve the classification problem and how 
   it is written in the sklearn library and the indepth mathematical intuition behind this algorithm because i have implemented this algorithm from scratch
 
-  The entire theory for the implementation can be understood by referring to my notes at following link (recommended as must read) : [theory](https://drive.google.com/drive/folders/1iXqW0q5vK3k1nb-agum3JACXigii7xCB?usp=sharing)
+  The entire theory for the implementation can be understood by referring to my notes at following link (recommended as must read) : [theory](https://khetansarvesh.medium.com/fishers-linear-discriminant-analysis-flda-math-decoded-ac0f632ba884)
 
   The dataset used can be found at this link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/dataset_FLD.csv)
 
