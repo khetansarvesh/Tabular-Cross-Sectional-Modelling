@@ -43,7 +43,7 @@ In this project, I have implemented several classification algorithms from scrat
   Please refer to following link for entire code implementation : [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Multiple-Linear-Classification.ipynb)
   
   ## 5. Naive Bayes
-  To understand theory go to my notes at following link : [theory](https://drive.google.com/drive/folders/1RaNS5fP1FfIuJ6puErvO3laei80jE0np?usp=drive_link)
+  To understand theory go to my notes at following link : [theory](https://khetansarvesh.medium.com/naive-bayes-nb-for-classification-explained-4fe4210d9538)
   
   Dataset can be found at following link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/indians-diabetes.csv)
   
