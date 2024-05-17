@@ -36,7 +36,7 @@ In this project, I have implemented several classification algorithms from scrat
   [code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/ANN.ipynb)
 
   ## 4. Linear Classification 
-  To understand theory go to my notes at following link : [theory](https://drive.google.com/drive/folders/1fYDGW2f-6wSun9jIvSPr84tP63uOcEH5?usp=drive_link)
+  To understand theory go to my notes at following link : [theory](https://medium.com/@khetansarvesh/math-behind-linear-classification-62e2a687b7e5)
   
   Dataset can be found at following link : [dataset](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/dataset/flower_dataset.csv)
   
