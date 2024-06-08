@@ -3,6 +3,10 @@ import numpy as np
 import math
 import random
 
+# MGD implementation with stop criteria based on :- #no_of_iterations
+
+
+# MGD implementation with stop criterai based on :- utill the difference between two errors is <= 0.001 i.e negligible
 class MiniBatchGradientDescent:
 
   #constructor

@@ -3,6 +3,7 @@ import numpy as np
 import math
 import random
 
+# GD implementation with stop criteria based on :- #no_of_iterations
 class GradientDescent_Ridge:
 
   #constructor

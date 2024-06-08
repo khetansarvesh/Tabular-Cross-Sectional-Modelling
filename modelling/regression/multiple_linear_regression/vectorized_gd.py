@@ -3,6 +3,7 @@ import numpy as np
 import math
 import random
 
+# GD implementation with stop criteria based on :- #no_of_iterations
 class GradientDescent:
 
   #constructor
@@ -63,8 +64,10 @@ class GradientDescent:
     return np.dot(x,self.new_weights.transpose())
 
 
-'''
-class GradientDescent:
+
+
+# GD implementation with stop criterai based on :- utill the difference between two errors is <= 0.001 i.e negligible
+class GradientDescent_ErrorDiff_Stop:
 
   #constructor
   def _init_(self):
@@ -126,7 +129,7 @@ class GradientDescent:
 
   #returns no of interations taken and also returns an array with error every 50 iteration
   def error_every_50_iteration(self):
-    return self.no_of_iteration,np.array(self.error_every_50_iteration_list)
+    return np.array(self.error_every_50_iteration_list)
 
   #returns an array of predicted values
   def predict(self,x):
@@ -137,4 +140,3 @@ class GradientDescent:
     x = np.array(df)
 
     return np.dot(x,self.new_weights.transpose())
-'''
