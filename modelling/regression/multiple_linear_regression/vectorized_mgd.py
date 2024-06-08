@@ -7,7 +7,7 @@ import random
 
 
 # MGD implementation with stop criterai based on :- utill the difference between two errors is <= 0.001 i.e negligible
-class MiniBatchGradientDescent:
+class MiniBatchGradientDescent_ErrorDiff_Stop:
 
   #constructor
   def _init_(self):
