@@ -80,7 +80,7 @@ class MiniBatchGradientDescent_ErrorDiff_Stop:
 
   #returns no of interations taken and also returns an array with error every 50 iteration
   def error_every_50_iteration(self):
-    return self.no_of_iteration,np.array(self.error_every_50_iteration_list)
+    return np.array(self.error_every_50_iteration_list)
 
   #returns an array of predicted values
   def predict(self,x):
