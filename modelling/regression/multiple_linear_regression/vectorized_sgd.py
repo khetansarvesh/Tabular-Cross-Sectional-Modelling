@@ -133,7 +133,7 @@ class StochasticGradientDescent_ErrorDiff_Stop:
                              (np.dot(self.X, self.new_weights.transpose()) - self.Y.transpose()).transpose())) / 2
 
       # updating the error difference
-      self.error_diff = self.current_error - self.new_error
+      self.error_diff = abs(self.current_error - self.new_error)
       self.current_error = self.new_error
       self.current_weights = self.new_weights
 
