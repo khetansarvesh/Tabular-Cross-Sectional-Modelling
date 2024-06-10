@@ -11,7 +11,7 @@ class MiniBatchGradientDescent:
     self.X = 0
 
   #returns nothing
-  def fit(self,X,Y,learning_rate = 0.000001,no_of_iteration = 10000):
+  def fit(self, X, Y, learning_rate = 0.000001, no_of_iteration = 10000, points_to_consider = 1):
 
     self.X = X
     self.Y = Y
@@ -47,7 +47,7 @@ class MiniBatchGradientDescent:
       self.new_weights = self.current_weights - (learning_rate)*(np.dot(self.Xps.transpose(),(np.dot(self.Xps,self.current_weights)-self.Yps.transpose())))
 
       #caluclating error using formula ***(error due to all points) = (X.(theta)t - (Y)t).(X.(theta)t - (Y)t)t*** -- t means transpose --some people divide it by 2
-      self.error = (np.dot(np.dot(self.Xs,self.new_weights.transpose()) - self.Ys.transpose(),(np.dot(self.Xs,self.new_weights.transpose()) - self.Ys.transpose()).transpose()))/2
+      self.error = (np.dot(np.dot(self.Xps,self.new_weights.transpose()) - self.Yps.transpose(),(np.dot(self.Xps,self.new_weights.transpose()) - self.Yps.transpose()).transpose()))/2
 
       self.current_weights = self.new_weights
 
