@@ -129,8 +129,8 @@ class StochasticGradientDescent_ErrorDiff_Stop:
       # (error due to all points) = (X.(theta)t - (Y)t).(X.(theta)t - (Y)t)t
       # -- t means transpose
       # -- some people divide it by 2
-      self.new_error = (np.dot(np.dot(self.X, self.new_weights.transpose()) - self.Y.transpose(),
-                             (np.dot(self.X, self.new_weights.transpose()) - self.Y.transpose()).transpose())) / 2
+      self.new_error = (np.dot(np.dot(self.Xp, self.new_weights.transpose()) - self.Yp.transpose(),
+                             (np.dot(self.Xp, self.new_weights.transpose()) - self.Yp.transpose()).transpose())) / 2
 
       # updating the error difference
       self.error_diff = self.current_error - self.new_error
@@ -142,4 +142,26 @@ class StochasticGradientDescent_ErrorDiff_Stop:
 
       # storing the error after every 50 iterations
       if self.no_of_iteration % 50 == 0:
-        self.error_every_50_iteration_list.append(self.new
+        self.error_every_50_iteration_list.append(self.new_error)
+
+      #breaking if no_of_iteration for achieving error_diff = 0.00000001 exceeds the no_of_iterations specified by user
+      if(self.no_of_iteration > no_of_iterations):
+        break;
+
+  # returns an array of [c m1 m2 m3......mn]
+  def coef_(self):
+    return self.new_weights
+
+  #returns no of interations taken and also returns an array with error every 50 iteration
+  def error_every_50_iteration(self):
+    return np.array(self.error_every_50_iteration_list)
+
+  #returns an array of predicted values
+  def predict(self,x):
+    #adding bias column to x
+    df = pd.DataFrame(x)
+    bias = [1 for i in range(df.shape[0])]
+    df.insert(loc = 0 , column = "bias" , value = bias )
+    x = np.array(df)
+
+    return np.dot(x,self.new_weights.transpose())                                                  
