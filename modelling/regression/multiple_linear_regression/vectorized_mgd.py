@@ -73,8 +73,6 @@ class MiniBatchGradientDescent:
 
     return np.dot(x,self.new_weights.transpose())
 
-
-
 # MGD implementation with stop criterai based on :- utill the difference between two errors is <= 0.001 i.e negligible
 class MiniBatchGradientDescent_ErrorDiff_Stop:
 
