@@ -129,8 +129,8 @@ class StochasticGradientDescent_ErrorDiff_Stop:
       # (error due to all points) = (X.(theta)t - (Y)t).(X.(theta)t - (Y)t)t
       # -- t means transpose
       # -- some people divide it by 2
-      self.new_error = (np.dot(np.dot(self.Xp, self.new_weights.transpose()) - self.Yp.transpose(),
-                             (np.dot(self.Xp, self.new_weights.transpose()) - self.Yp.transpose()).transpose())) / 2
+      self.new_error = (np.dot(np.dot(self.X, self.new_weights.transpose()) - self.Y.transpose(),
+                             (np.dot(self.X, self.new_weights.transpose()) - self.Y.transpose()).transpose())) / 2
 
       # updating the error difference
       self.error_diff = self.current_error - self.new_error
