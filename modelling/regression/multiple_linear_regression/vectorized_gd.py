@@ -63,9 +63,6 @@ class GradientDescent:
 
     return np.dot(x,self.new_weights.transpose())
 
-
-
-
 # GD implementation with stop criterai based on :- utill the difference between two errors is <= 0.001 i.e negligible
 class GradientDescent_ErrorDiff_Stop:
 
