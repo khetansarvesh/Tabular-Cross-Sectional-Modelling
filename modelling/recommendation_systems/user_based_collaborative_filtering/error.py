@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import time
 import math
+from math import sqrt
 import random
 
 class Error:
