@@ -7,12 +7,7 @@ Algorithms discussed here are used mainly for data mining purposes i.e. to explo
 ### <ins> 1. Dimensionality Reduction </ins>
 
 ### <ins> 2. Dimensionality Expansion </ins>
-- You can use overcomplete autoencoders for this task
-  
-a. Sparse Autoencoders
-
-b. Denoising Autoencoders
-
+- You can use overcomplete autoencoders for this task Sparse Autoencoders / Denoising Autoencoders
 - In Fact you can use any deep learning generative model
 
 ### <ins> 3. Denoising Data </ins>
