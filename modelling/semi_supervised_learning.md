@@ -4,4 +4,5 @@ This algorithm is used when your table contains some data without the dependent 
 - Transductive Learning 
 - Co-training 
 - Self training
+  
 It is useful when extracting relevant features from complex and high volume data, i.e., medical images. 
