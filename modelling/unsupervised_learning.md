@@ -4,18 +4,21 @@ This algorithm is used when your table contains only  independent variables (X1,
 
 Algorithms discussed here are used mainly for data mining purposes i.e. to explore/analyze the data already present with us and not exactly for predictive analysis i.e. predicting results. People just have put this under ML umbrella but its main use is in data mining. It includes 
 
-### Dimensionality Reduction
+### 1. Dimensionality Reduction
 
-### Dimensionality Expansion
-- You can use overcomplete autoencoders for this task 
+### 2. Dimensionality Expansion
+- You can use overcomplete autoencoders for this task
+  
 a. Sparse Autoencoders
+
 b. Denoising Autoencoders
 
 - In Fact you can use any deep learning generative model
 
-### Denoising Data
+### 3. Denoising Data
 Suppose you want to remove noise from your data then how can you do??? Use under complete autoencoders
 But first you will have to create noisy data to train your autoencoder on that. You can create noisy data by adding some gaussian noise on the original data 
 
-- [Clustering](https://khetansarvesh.medium.com/decoding-clustering-algorithms-14375f1aedbd#d5b5)
-- Recommendation System
+### 4. [Clustering](https://khetansarvesh.medium.com/decoding-clustering-algorithms-14375f1aedbd#d5b5)
+
+### 5. Recommendation System
