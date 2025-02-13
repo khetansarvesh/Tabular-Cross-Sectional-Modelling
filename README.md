@@ -2,10 +2,10 @@
 
 # Data Modeling / Model Building / Machine Learning / Predictive Analytics / Data Learning / Pattern Learning / Pattern Recognition
 Broadly following are different types of Machine Learning algorithms or learning algorithms:
-- Supervised Learning / Forecasting 
-- Unsupervised Learning
-- Semi Supervised Learning
-- Reinforcement Learning (RL)
+- [Supervised Learning / Forecasting](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/supervised_learning.md)
+- [Unsupervised Learning](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/unsupervised_learning.md)
+- [Semi Supervised Learning](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/semi_supervised_learning.md)
+- [Reinforcement Learning](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/reinforcement_learning.md) (RL)
 
 # Model Deployment
 
