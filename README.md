@@ -1,4 +1,5 @@
-# [Data Preprocessing / Descriptive Analytics](https://khetansarvesh.medium.com/tabular-data-pre-processing-pipeline-af083cab9c52)
+# Data Preprocessing / Descriptive Analytics
+More information available [here](https://khetansarvesh.medium.com/tabular-data-pre-processing-pipeline-af083cab9c52) in my medium blog.
 
 # Data Modeling / Model Building / Machine Learning / Predictive Analytics / Data Learning / Pattern Learning / Pattern Recognition
 Broadly following are different types of Machine Learning algorithms or learning algorithms:
