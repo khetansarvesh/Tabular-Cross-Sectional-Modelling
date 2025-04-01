@@ -1,8 +1,8 @@
 # Dimensionality Reduction Techniques
 
 There are many techniques to perform dimensionality reduction : 
-1. Lossy Techniques : Techniques in which the reduced dataset shows somewhat less information compared to the original data fall under lossy techniques.
-2. Lossless Techniques : Techniques in which the reduced dataset shows exactly the same information as the original data fall under lossless techniques.
+1. <ins> Lossy Techniques </ins> : Techniques in which the reduced dataset shows somewhat less information compared to the original data fall under lossy techniques.
+2. <ins> Lossless Techniques </ins> : Techniques in which the reduced dataset shows exactly the same information as the original data fall under lossless techniques.
 
 Below we will understand many algorithms which can perform Lossy Dimensionality Reduction !! These lossy techniques can be further divided into two broad categories namely : 
 
@@ -15,7 +15,7 @@ Below we will understand many algorithms which can perform Lossy Dimensionality 
 5. Fourier transformation / Discrete Wavelength Transformation (DWT)
 
 
-# <ins> $\color{yellow}{Non\ Linear\ Lossy\ Techniques\ (Manifold Learning)}$ </ins>
+# <ins> $\color{yellow}{Non\ Linear\ Lossy\ Techniques\ (Manifold  Learning)}$ </ins>
 
 ## 1. Local (looks at neighbors to reduce dimensions)
 ## 2. Global (looks at entire dataset to reduce dimensions)
