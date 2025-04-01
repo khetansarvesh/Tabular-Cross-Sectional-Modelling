@@ -4,8 +4,7 @@ This algorithm is used when your table contains only  independent variables (X1,
 
 Algorithms discussed here are used mainly for data mining purposes i.e. to explore/analyze the data already present with us and not exactly for predictive analysis i.e. predicting results. People just have put this under ML umbrella but its main use is in data mining. It includes 
 
-### <ins> 1. Dimensionality Reduction </ins>
-You can read more about it [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/dim_reduction.md)
+### <ins> 1. [Dimensionality Reduction](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/dim_reduction.md) </ins>
 
 ### <ins> 2. Dimensionality Expansion </ins>
 - You can use overcomplete autoencoders for this task Sparse Autoencoders / Denoising Autoencoders
