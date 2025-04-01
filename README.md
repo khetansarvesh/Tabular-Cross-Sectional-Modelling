@@ -59,10 +59,14 @@ After model deployment, model monitoring is very crucial to have a continuous ch
         - Population Stability Index (PSI) is a popular metric to capture this.
         - PSI measures how much a variable has shifted in distribution between two samples over a time.
         - For PSI calculation we first split the data into groups and obtain percentage of data in each group for both development data and OOT data. These expected% and actual% are used for calculating PSI for each group. Now, we obtain our final PSI by summing up these group PSIs.
+        - To interpret the PSI values, following are the rules –
+            - i. If, PSI < 0.1, no change is required in existing model
+            - ii. If, 0.1<= PSI < 0.2, slight distribution shift is there, some changes is model is required
+            - iii. If, PSI >=0.2, (or greater than 20%) significant distribution shift is present and model should not be used anymore without redeveloping.
     - Var drift :
         - same logic as target drift but now instead of target variable here we look at independent variable(s).
         - Characteristic Stability Index (CSI) is a popular metric to capture this.
-        - PSI measures overall population shift whereas CSI focuses on individual model variables used.
+        - PSI measures overall population shift whereas CSI focuses on individual model variables used. If PSI values concludes presence of significant distribution shift , then CSI can help us in narrowing down the specific features which are majorly responsible for this.
 
 
 - <ins> Concept Drift </ins>: In this, distributions remain the same, but the relationships between input features and output changes. The patterns learned through training no longer hold for the current scenario.
