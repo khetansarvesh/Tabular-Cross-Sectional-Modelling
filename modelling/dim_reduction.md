@@ -9,7 +9,7 @@ Below we will understand many algorithms which can perform Lossy Dimensionality 
 
 # <ins> $\color{yellow}{Linear\ Lossy\ Techniques}$ </ins>
 1. [Matrix Decomposition / Matrix Factorization / Principal Component Analysis (PCA)](https://pub.towardsai.net/principle-component-analysis-pca-mathematics-9cfba3c66b45) : In the blog I have only shown PCA using EVD and SVD but we can also use CUR decomposition. You can learn more about CUR decompotion is following videos -- [CUR1](https://www.youtube.com/watch?v=SO1KTzuKTSI) || [CUR2](https://www.youtube.com/watch?v=WgK_D6IyDbM) || [CUR3](https://www.youtube.com/watch?v=qgsuly5nxIw)
-2. Metric Multidimensional Scaling (MDS) / Classical MDS / Principal Coordinate Analysis (PCoA)
+2. Metric Multidimensional Scaling (MDS) / Classical MDS / Principal Coordinate Analysis (PCoA) : [Video1](https://www.youtube.com/watch?v=VKSJayDi_lQ) || [Video2](https://www.youtube.com/watch?v=GEn-_dAyYME) || [Code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/dimensionality-reduction/MDS.ipynb)
 3. Non-Negative Matrix Factorization (NMF)
 4. Independent Component Analysis (ICA) 
 5. Fourier transformation / Discrete Wavelength Transformation (DWT)
