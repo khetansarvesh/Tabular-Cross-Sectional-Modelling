@@ -6,7 +6,7 @@ More information available [here](https://khetansarvesh.medium.com/tabular-data-
 Broadly following are different types of Machine Learning algorithms or learning algorithms:
 
 
-### <ins> $\color{yellow}{Supervised\ Learning\ /\ Forecasting}$ </ins>
+## <ins> $\color{yellow}{Supervised\ Learning\ /\ Forecasting}$ </ins>
 More about this [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/supervised_learning.md)
 
 
