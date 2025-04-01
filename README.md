@@ -52,8 +52,11 @@ Hence here the task is to learn both Y (actions) and F (policy) using X (states)
 # $\color{cyan}{Model\ Deployment}$
 
 # $\color{cyan}{Model\ Monitoring}$
+After model deployment, model monitoring is very crucial to have a continuous check on model performance. Models are created and optimized on training data, so testing environment data is unseen data for them. Model monitoring metrics/tools help us to infer whether the model is good enough for this testing environment. Models decay over time and require retraining or an update. Model performance decays majorly due to:
+- Data Drift: It occurs when the distribution of the input features for testing/current data is different from the trained data. Due to this, the trained model is no longer relevant for this new data.
+- Concept Drift: In this, distributions remain the same, but the relationships between input features and output changes. The patterns learned through training no longer hold for the current scenario.
 
-[Evidently](https://github.com/evidentlyai/evidently) is an open source tool for model monitoring. It creates dashboard and reports
+To tackle data drift and concept drift, we need a model monitoring system in place so that we can update or retrain the model as and when we get a red flag from this system. [Evidently](https://github.com/evidentlyai/evidently) is an open source tool for model monitoring. It creates dashboard and reports
 
 ## <ins> $\color{yellow}{Data\ Drift}$ </ins>
 DATA DRIFT CAN BE OF TWO TYPES : 
