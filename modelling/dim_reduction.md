@@ -18,6 +18,8 @@ Below we will understand many algorithms which can perform Lossy Dimensionality 
 # <ins> $\color{yellow}{Non\ Linear\ Lossy\ Techniques\ (Manifold  Learning)}$ </ins>
 
 ## 1. Local (looks at neighbors to reduce dimensions)
+1.1 t-Distributed Stochastic Neighbor Embedding (t-SNE) : [Video1](https://www.youtube.com/watch?v=U-s8q6HshZw) || [Video2](https://www.youtube.com/watch?v=NEaUSP4YerM) || [Video3](https://www.youtube.com/watch?v=4GBgqmq0XAY&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK&index=15) || [Code](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/dimensionality-reduction/TSNE.ipynb)
+
 ## 2. Global (looks at entire dataset to reduce dimensions)
 
 2.1. Non Linear PCA : these can be of different types like Polynomial PCA / Domain Expert PCA / Kernel PCA
