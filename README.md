@@ -5,8 +5,10 @@ More information available [here](https://khetansarvesh.medium.com/tabular-data-
 # $\color{cyan}{Data\ Modeling\ /\ Model\ Building\ /\ Machine\ Learning\ /\ Predictive\ Analytics\ /\ Data\ Learning\ /\ Pattern\ Learning\ /\ Pattern\ Recognition}$
 
 ## <ins> $\color{yellow}{Supervised\ Learning\ /\ Forecasting}$ </ins>
-More about this [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/supervised_learning.md)
 
+This algorithm is used when your table contains dependent variable (Y) (also called target variable or labeled variable) which is to be predicted and independent variables (X1,X2,X3……). And your task is the learn the function F which forms the mapping between X and Y
+- Regression
+- Classification
 
 ## <ins> $\color{yellow}{Unsupervised\ Learning}$ </ins>
 This algorithm is used when your table contains only  independent variables (X1,X2,X3……) and no dependent variable (Y). Here also the task is to learn the function F which shows relation between X1, X2, X3,....

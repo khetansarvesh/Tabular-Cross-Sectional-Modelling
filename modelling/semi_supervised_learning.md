@@ -1,2 +1,0 @@
-# Semi Supervised Learning
-
