@@ -53,7 +53,7 @@ Hence here the task is to learn both Y (actions) and F (policy) using X (states)
 
 # $\color{cyan}{Model\ Monitoring}$
 
-[Evidently](https://github.com/evidentlyai/evidently) is an open source tool for model monitoring. It creates dashboard and presents a report on –
+[Evidently](https://github.com/evidentlyai/evidently) is an open source tool for model monitoring. It creates dashboard and reports
 
 ## <ins> $\color{yellow}{Data\ Drift}$ </ins>
 DATA DRIFT CAN BE OF TWO TYPES : 
