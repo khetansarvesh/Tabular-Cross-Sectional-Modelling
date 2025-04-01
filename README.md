@@ -54,8 +54,17 @@ Hence here the task is to learn both Y (actions) and F (policy) using X (states)
 # $\color{cyan}{Model\ Monitoring}$
 After model deployment, model monitoring is very crucial to have a continuous check on model performance. Models are created and optimized on training data, so testing environment data is unseen data for them. Model monitoring metrics/tools help us to infer whether the model is good enough for this testing environment. Models decay over time and require retraining or an update. Model performance decays majorly due to:
 - <ins> Data Drift </ins>: It occurs when the distribution of the input features for testing/current data is different from the trained data. Due to this, the trained model is no longer relevant for this new data. Data drift can be of two types : 
-    - Target drift : dataset has become skewed eg 20 ventile mein atleast 5% sabka hona chahiye na
-    - Var drift : same logic as target but now for dependent variable
+    - Target drift :
+        - When the distribution of target variable in the dataset changes eg during training a classifier, we had 5 datapoints of each class while during testing we observe that class2 has 10 datapoints while class 9 has only 1 datapoint.
+        - Population Stability Index (PSI) is a popular metric to capture this.
+        - PSI measures how much a variable has shifted in distribution between two samples over a time.
+        - For PSI calculation we first split the data into groups and obtain percentage of data in each group for both development data and OOT data. These expected% and actual% are used for calculating PSI for each group. Now, we obtain our final PSI by summing up these group PSIs.
+    - Var drift :
+        - same logic as target drift but now instead of target variable here we look at independent variable(s).
+        - Characteristic Stability Index (CSI) is a popular metric to capture this.
+        - PSI measures overall population shift whereas CSI focuses on individual model variables used.
+
+
 - <ins> Concept Drift </ins>: In this, distributions remain the same, but the relationships between input features and output changes. The patterns learned through training no longer hold for the current scenario.
 
 To tackle data drift and concept drift, we need a model monitoring system in place so that we can update or retrain the model as and when we get a red flag from this system. [Evidently](https://github.com/evidentlyai/evidently) is an open source tool for model monitoring. It creates dashboard and reports
