@@ -3,14 +3,12 @@ More information available [here](https://khetansarvesh.medium.com/tabular-data-
 
 
 # $\color{cyan}{Data\ Modeling\ /\ Model\ Building\ /\ Machine\ Learning\ /\ Predictive\ Analytics\ /\ Data\ Learning\ /\ Pattern\ Learning\ /\ Pattern\ Recognition}$
-Broadly following are different types of Machine Learning algorithms or learning algorithms:
-
 
 ## <ins> $\color{yellow}{Supervised\ Learning\ /\ Forecasting}$ </ins>
 More about this [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/supervised_learning.md)
 
 
-### Unsupervised Learning : 
+## <ins> $\color{yellow}{Unsupervised\ Learning}$ </ins>
 This algorithm is used when your table contains only  independent variables (X1,X2,X3……) and no dependent variable (Y). Here also the task is to learn the function F which shows relation between X1, X2, X3,....
 
 Algorithms discussed here are used mainly for data mining purposes i.e. to explore/analyze the data already present with us and not exactly for predictive analysis i.e. predicting results. People just have put this under ML umbrella but its main use is in data mining. It includes 
@@ -25,7 +23,7 @@ Algorithms discussed here are used mainly for data mining purposes i.e. to explo
 
 
 
-### Semi Supervised Learning : 
+## <ins> $\color{yellow}{Semi\ Supervised\ Learning}$ </ins>
 This algorithm is used when your table contains some data without the dependent variable (Y) and some data with the dependent variable (Y) along with the independent variables (X1,X2,X3……).Hence a combo of both supervised and unsupervised kind of data. Usually data without dependent variable (Y) is more compared with dependent variable (Y). It involves techniques like
 - Active Learning (most used)
 - Transductive Learning 
@@ -35,8 +33,7 @@ This algorithm is used when your table contains some data without the dependent 
 It is useful when extracting relevant features from complex and high volume data, i.e., medical images. 
 
 
-
-### Reinforcement Learning (RL) : 
+## <ins> $\color{yellow}{Reinforcement\ Learning\ (RL)}$ </ins>
 Analogy of training a dog : 
 - if a dog does a good job we pat him and tell him to be a good boy and sometimes reward him with food 
 - if he does some bad task then we say him bad boy and punish him. 
