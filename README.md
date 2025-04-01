@@ -52,3 +52,14 @@ Hence here the task is to learn both Y (actions) and F (policy) using X (states)
 # $\color{cyan}{Model\ Deployment}$
 
 # $\color{cyan}{Model\ Monitoring}$
+
+[Evidently](https://github.com/evidentlyai/evidently) is an open source tool for model monitoring. It creates dashboard and presents a report on –
+
+## <ins> $\color{yellow}{Data\ Drift}$ </ins>
+DATA DRIFT CAN BE OF TWO TYPES : 
+- Target drift : dataset has become skewed eg 20 ventile mein atleast 5% sabka hona chahiye na
+- Var drift : same logic as target but now for dependent variable
+
+
+## <ins> $\color{yellow}{Concept\ Drift}$ </ins>
+Underlying relation b/w dependent and independent features has itself changed
