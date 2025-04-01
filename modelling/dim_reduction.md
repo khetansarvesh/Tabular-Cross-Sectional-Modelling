@@ -27,8 +27,8 @@ Below we will understand many algorithms which can perform Lossy Dimensionality 
 2.3. [IsoMap](https://www.youtube.com/watch?v=RPjPLlGefzw&list=PLehuLRPyt1HzQoXEhtNuYTmd0aNQvtyAK&index=4) :
 
 2.4. Deep Unsupervised Learning :
-    - Self Organizing Maps (SOMs)
-    - You can use any generative model discussed [here](https://levelup.gitconnected.com/data-augmentation-for-regression-ffnn-8b2ca20aba7c) , I will explain with the help of UnderComplete Autoencoder (AEs). We already know we use UnderComplete AE to generate new data points but in the process we also reduce the dimensions of the inputs and this is where dimensionality reduction happens automatically and we will use those reduced dimensions. Infact, undercomplete AE behaves like PCA if 1 input layer, 1 hidden layer with identity activation function and 1 output layer with identity activation function
+- Self Organizing Maps (SOMs)
+- You can use any generative model discussed [here](https://levelup.gitconnected.com/data-augmentation-for-regression-ffnn-8b2ca20aba7c) , I will explain with the help of UnderComplete Autoencoder (AEs). We already know we use UnderComplete AE to generate new data points but in the process we also reduce the dimensions of the inputs and this is where dimensionality reduction happens automatically and we will use those reduced dimensions. Infact, undercomplete AE behaves like PCA if 1 input layer, 1 hidden layer with identity activation function and 1 output layer with identity activation function
 
 
 ## 3. Transitional (can be both local / global)
