@@ -67,7 +67,13 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 ## $\color{yellow}{1.2 Probabilistic\ Discriminative\ Learning}$
-
+- [Linear Logistic Regression](https://khetansarvesh.medium.com/mathematical-orgasm-for-logistic-regression-40b404266e54)
+- Non Linear Logistic Regression
+  - Polynomial Logistic Regression
+  - Domain Expert Logistic Regression
+  - Kernel Logistic Regression
+    - It is advised not to use kernel classification because the computation time complexity increases exponentially without much change in model performance.
+ 
 
 
 
