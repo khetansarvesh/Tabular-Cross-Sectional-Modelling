@@ -10,9 +10,9 @@ These are called Discriminant based classifier because here we are trying to dis
 ---
 
 
-### - [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) (Linear Model)
+- [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) (Linear Model)
   - people wrongly call this as Linear Perceptron also
-### - Non Linear Classification (Non Linear Model)
+- Non Linear Classification (Non Linear Model)
   - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA)
   - Domain Expert Classification
   - Kernel Classification
