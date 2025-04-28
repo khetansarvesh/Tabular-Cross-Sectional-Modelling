@@ -110,10 +110,11 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 # $\color{cyan}{2. Supervised\ Deep\ Learning}$
-- Linear Perceptron (linear model) (another representation of linear logistic regression)
-  - Exactly the same as linear perceptron for regression problem just that here the output activation function used is logistic function because as we know this is just another way of representing logistic regression.Or you can use any function which ranges from 0 to 1 as the output layer activation function because we say in linear logistic regression also that we can use any other function instead of logistic function which ranges from 0 to 1. (you actually can't use any output layer activation function lying b/w 0 and 1 you need to take care that the chosen activation function does not leads to such a loss function which is saturating or lead to vanishing gradient problem (zero gradients) )
+- Linear Perceptron
+  - Nothing but another representation of linear logistic regression
+  - Exactly the same as linear perceptron for regression problem just that here the output activation function used is logistic function because as we know this is just another way of representing logistic regression. Instead of this we can use any output activation function which ranges from 0 to 1 because we saw in linear logistic regression also that we can use any other function instead of logistic function which ranges from 0 to 1.
   - Cost function also used here is the same as the one used in logistic regression (we have discussed two types of cost function in logistic regression you can use any but prefer using the one which does not have the saturation issue)  
-- Non Linear Perceptron (non linear model)
+- Non Linear Perceptron
   - Polynomial Perceptron
   - Domain Expert Perceptron
   - Kernel Perceptron
