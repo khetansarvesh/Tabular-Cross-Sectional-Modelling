@@ -23,9 +23,10 @@ These are called Discriminant based classifier because here we are trying to dis
 ---
 
 
-- [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) (Linear Model) (also called Hard SVM)
+- [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) $\color{red}{(Linear\ Model)} (also called Hard SVM)
 - Non Linear SVM-C (Non Linear Model)
   - Polynomial SVM-C
+    - Exactly same as what we saw in polynomial Regression i.e. first we map to higher dimension by generating polynomial features and then we learn a linear SVM in this higher dimension which leads to learning a non linear SVM on original smaller dimension
   - Domain Expert SVM-C
   - [Kervel SVM-C](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Kernel-SVM.ipynb)
     - Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
