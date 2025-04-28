@@ -11,7 +11,9 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
     - Univariate Regression : Single Target Variable
     - Multivariate Regression : Multiple Target Variable
 - Classification
-    - [Univariate Binary Classification](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_binary_classification.md)
+    - Univariate Binary Classification
+        - [Algorithms](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_binary_classification.md)
+        - Evaluation
     - Multivariate Binary Classification or (Univariate / Multivariate) Multiclass Classification
     - (Univariate / Multivariate) Multi Label Classification
 
