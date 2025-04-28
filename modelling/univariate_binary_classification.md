@@ -23,6 +23,18 @@ These are called Discriminant based classifier because here we are trying to dis
 ---
 
 
-- [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) (Linear Model) (also called Hard SVM) 
+- [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) (Linear Model) (also called Hard SVM)
+- Non Linear SVM-C (Non Linear Model)
+  - Polynomial SVM-C
+  - Domain Expert SVM-C
+  - [Kervel SVM-C](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Kernel-SVM.ipynb)
+    - Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
+
+
+
+--- 
+
+
+
 
 ## $\color{yellow}{1.2 Probabilistic\ Discriminative\ Learning}$
