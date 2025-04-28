@@ -219,4 +219,14 @@ These are called Rule based also because we form a tree, classifier which makes 
 
 
 # $\color{cyan}{5. Ensemble\ Learning\ /\ Mixture\ of\ Experts}$
+Let’s say you are given a non-linear regression dataset and you applied Polynomial Regression and  Polynomial SVM to it and both gave good results. Now you need a way to somehow combine both the models to get the best of both worlds, then how to do so?? Hence we use Ensemble technique wherein we can combine multiple models. It is said that Ensemble technique works best most of the time over individual models because it prevents overfitting to a great extent (hence also called a regularization technique) and also easily gives 2-3% improvement in training accuracy !!!
+
+Now models can be combined in two ways : 
+- [Parallel Ensembles](https://khetansarvesh.medium.com/parallel-classification-ensemblers-bd9f2d9d1491) : Construct all the models parallely independent of each other and then combine them
+- Sequential Ensembles : Construct models one after another sequentially and then combine them
+  - Stacking Ensemble : no more used and most people don't even know about this anymore
+  - Boosting Ensemble :
+    - Adaptive Boosting (or AdaBoost) Ensemble – decision tree
+    - Gradient Boosting (or Gradient Boost) Ensemble – decision tree
+    - Extreme Gradient Boosting (or XGBoost) Ensemble – decision tree  
 
