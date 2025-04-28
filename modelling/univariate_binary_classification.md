@@ -9,10 +9,19 @@ These are called Discriminant based classifier because here we are trying to dis
 
 ---
 
+<div style="color:green">
+This entire paragraph will be green.
+
+Even across multiple paragraphs.
+</div>
+
+
+<h3 style="color:purple">Purple Heading</h3>
+<p style="color:orange">Orange paragraph</p>
 
 
 - [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) (Linear Model) : people wrongly call this as Linear Perceptron also
-- Non Linear Classification <font color="blue">This text will be blue</font>
+- Non Linear Classification (Non Linear Model)
   - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA)
   - Domain Expert Classification
   - Kernel Classification
