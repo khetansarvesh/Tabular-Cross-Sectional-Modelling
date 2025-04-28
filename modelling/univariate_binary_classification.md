@@ -10,8 +10,8 @@ These are called Discriminant based classifier because here we are trying to dis
 ---
 
 
-- [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) (Linear Model) -- people wrongly call this as Linear Perceptron also
-- Non Linear Classification (Non Linear Model)
+- [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) -- people wrongly call this as Linear Perceptron also
+- Non Linear Classification
   - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA)
   - Domain Expert Classification
   - Kernel Classification
@@ -22,8 +22,8 @@ These are called Discriminant based classifier because here we are trying to dis
 ---
 
 
-- [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) (Linear Model) (also called Linear Hard SVM)
-- Non Linear SVM-C (Non Linear Model) (also called Non Linear Hard SVM)
+- [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) / Linear Hard SVM-C
+- Non Linear SVM-C / Non Linear Hard SVM-C
   - [Polynomial SVM-C](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-15-0214-9_87/MediaObjects/468797_1_En_87_Fig2_HTML.png)
     - Exactly same as what we saw in polynomial Regression i.e. first we map to higher dimension by generating polynomial features and then we learn a linear SVM in this higher dimension which leads to learning a non linear SVM on original smaller dimension
   - Domain Expert SVM-C
@@ -35,8 +35,8 @@ These are called Discriminant based classifier because here we are trying to dis
 --- 
 
 
-- [Linear Soft SVM-C](https://pub.towardsai.net/decoding-linear-soft-svm-for-classification-over-linear-hard-svm-f84cbc111913) (Linear Model)
-- Non Linear Soft SVM-C (Non Linear Model)
+- [Linear Soft SVM-C](https://pub.towardsai.net/decoding-linear-soft-svm-for-classification-over-linear-hard-svm-f84cbc111913)
+- Non Linear Soft SVM-C
   - Polynomial
   - Domain Expert
   - Kernel 
@@ -44,8 +44,8 @@ These are called Discriminant based classifier because here we are trying to dis
 
 ---
 
-- [Linear Discriminant Analysis (LDA) / Fisher's LDA (FLDA)](https://pub.towardsai.net/fishers-linear-discriminant-analysis-flda-math-decoded-ac0f632ba884) (Linear Model)
-- Non Linear Discriminant Analysis (Non Linear Model)
+- [Linear Discriminant Analysis (LDA) / Fisher's LDA (FLDA)](https://pub.towardsai.net/fishers-linear-discriminant-analysis-flda-math-decoded-ac0f632ba884)
+- Non Linear Discriminant Analysis
   - Polynomial DA
     - Same as what we discussed in polynomial regression . Here we have great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply LDA.Hence this results in a non linear decision boundary. If the matured features are all 2 degree polynomials then it is called quadratic discriminant analysis (QDA). Here also same problem of overfitting will arise and we can use all the regularization techniques to solve this overfitting problem
   - Domain Expert DA
@@ -55,8 +55,8 @@ These are called Discriminant based classifier because here we are trying to dis
 
 ---
 
-- Linear Conditional Random Fields (CRF) (Linear Model)
-- Non Linear Conditional Random Fields (Non Linear Model)
+- Linear Conditional Random Fields (CRF)
+- Non Linear Conditional Random Fields
   - Polynomial CRF
   - Domain Expert CRF
   - Kernel CRF 
