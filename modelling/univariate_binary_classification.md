@@ -44,8 +44,14 @@ These are called Discriminant based classifier because here we are trying to dis
 
 ---
 
-
-
+- [Linear Discriminant Analysis (LDA) / Fisher's LDA (FLDA)](https://pub.towardsai.net/fishers-linear-discriminant-analysis-flda-math-decoded-ac0f632ba884) (Linear Model)
+- Non Linear Discriminant Analysis (Non Linear Model)
+  - Polynomial DA
+    - Same as what we discussed in polynomial regression . Here we have great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply LDA.Hence this results in a non linear decision boundary. If the matured features are all 2 degree polynomials then it is called quadratic discriminant analysis (QDA). Here also same problem of overfitting will arise and we can use all the regularization techniques to solve this overfitting problem
+  - Domain Expert DA
+  - Kernel DA
+    - Prefer not to use because the computation time complexity increases exponentially without much change in model performance.
+   
 
 ---
 
