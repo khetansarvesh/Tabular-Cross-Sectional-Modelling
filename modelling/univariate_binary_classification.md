@@ -36,7 +36,7 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 - [Linear Soft SVM-C](https://pub.towardsai.net/decoding-linear-soft-svm-for-classification-over-linear-hard-svm-f84cbc111913) (Linear Model)
-- Non Linear Soft SVM-C
+- Non Linear Soft SVM-C (Non Linear Model)
   - Polynomial
   - Domain Expert
   - Kernel 
@@ -46,6 +46,18 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 
+
+---
+
+- Linear Conditional Random Fields (CRF) (Linear Model)
+- Non Linear Conditional Random Fields (Non Linear Model)
+  - Polynomial CRF
+  - Domain Expert CRF
+  - Kernel CRF 
+
+
+
+---
 
 
 ## $\color{yellow}{1.2 Probabilistic\ Discriminative\ Learning}$
