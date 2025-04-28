@@ -9,6 +9,7 @@ These are called Discriminant based classifier because here we are trying to dis
 - Non Linear Classification (Non Linear Model)
   - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA)
   - Domain Expert Classification
-  - Kernel Classification   
+  - Kernel Classification
+    - Prefer not to use kernel classification because the computation time complexity increases exponentially without much change in model performance.   
 
 ## $\color{yellow}{1.2 Probabilistic\ Discriminative\ Learning}$
