@@ -29,7 +29,7 @@ These are called Discriminant based classifier because here we are trying to dis
 - Non Linear Classification
   - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA) : Same as what we discussed in [polynomial regression](https://levelup.gitconnected.com/unfolding-math-for-polynomial-non-linear-regression-7ad8f486d53a#fce9). Here we great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply linear classification.Hence this results in a non linear decision boundary
   - Domain Expert Classification
-  - Kernel Classification : Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
+  - Kernel Classification
 
 
 ---
