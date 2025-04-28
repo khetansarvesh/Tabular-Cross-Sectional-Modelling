@@ -34,7 +34,7 @@ These are called Discriminant based classifier because here we are trying to dis
     - Here also you will find overfitting and you can use the same old techniques discussed earlier to handle overfitting. 
   - Domain Expert Classification
   - Kernel Classification
-
+    - Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
 
 
 ---
@@ -42,11 +42,9 @@ These are called Discriminant based classifier because here we are trying to dis
 
 - [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) / Linear Hard SVM-C
 - Non Linear SVM-C / Non Linear Hard SVM-C
-  - [Polynomial SVM-C](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-15-0214-9_87/MediaObjects/468797_1_En_87_Fig2_HTML.png)
-    - Exactly same as what we saw in polynomial Regression i.e. first we map to higher dimension by generating polynomial features and then we learn a linear SVM in this higher dimension which leads to learning a non linear SVM on original smaller dimension
+  - [Polynomial SVM-C](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-15-0214-9_87/MediaObjects/468797_1_En_87_Fig2_HTML.png) : Exactly same as what we saw in polynomial Regression i.e. first we map to higher dimension by generating polynomial features and then we learn a linear SVM in this higher dimension which leads to learning a non linear SVM on original smaller dimension
   - Domain Expert SVM-C
   - [Kervel SVM-C](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/classification/Kernel-SVM.ipynb)
-    - Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
 
 
 
@@ -64,8 +62,7 @@ These are called Discriminant based classifier because here we are trying to dis
 
 - [Linear Discriminant Analysis (LDA) / Fisher's LDA (FLDA)](https://pub.towardsai.net/fishers-linear-discriminant-analysis-flda-math-decoded-ac0f632ba884)
 - Non Linear Discriminant Analysis
-  - Polynomial DA
-    - Same as what we discussed in polynomial regression . Here we have great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply LDA.Hence this results in a non linear decision boundary. If the matured features are all 2 degree polynomials then it is called quadratic discriminant analysis (QDA). Here also same problem of overfitting will arise and we can use all the regularization techniques to solve this overfitting problem
+  - Polynomial DA : Same as what we discussed in polynomial regression . Here we have great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply LDA.Hence this results in a non linear decision boundary. If the matured features are all 2 degree polynomials then it is called quadratic discriminant analysis (QDA). Here also same problem of overfitting will arise and we can use all the regularization techniques to solve this overfitting problem
   - Domain Expert DA
   - Kernel DA
    
