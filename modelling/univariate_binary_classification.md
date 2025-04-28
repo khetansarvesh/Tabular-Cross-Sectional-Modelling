@@ -159,6 +159,9 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 
+
+
+
 # $\color{cyan}{3. Generative\ Learning\ /\ Generative\ Based\ Classifiers\ /\ Generative\ Models}$
 These are called generative classifier because here we try to understand how the two classes data was generated using bayes theorem in probability. 
 
@@ -168,4 +171,52 @@ These are called generative classifier because here we try to understand how the
 - Bayesian Belief Networks (BBN)
 - Markov Random Fields (MRF)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# $\color{cyan}{4. Instance\ Based\ Learning}$
+
+## $\color{yellow}{4.1. Geometric\ Instance\ Based\ Learning}$
+- [Linear K-Nearest Neighbors (KNN)](https://pub.towardsai.net/k-nearest-neighbours-knn-for-classification-da05a58d924b) : Piecewise Linear / Non Linear Model
+
+## $\color{yellow}{4.2. Tree\ Based\ Learning\ /\ Tree\ Based\ Classifiers\ /\ Tree\ Models\ /\ Tree\ Algorithms\ /\ Rule\ Based\ Classifier}$
+These are called Rule based also because we form a tree, classifier which makes the class decision depending by using various “if..else” rules
+- [Decision Tree Classification](https://khetansarvesh.medium.com/decision-tree-classification-explained-909a2fbf5993) : Piecewise Linear / Non-Linear Model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# $\color{cyan}{5. Ensemble\ Learning\ /\ Mixture\ of\ Experts}$
 
