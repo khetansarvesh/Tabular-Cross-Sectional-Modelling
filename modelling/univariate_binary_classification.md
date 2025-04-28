@@ -14,6 +14,9 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 
+---
+
+
 - [Linear Support Vector Machine (SVM) Classification](https://levelup.gitconnected.com/support-vector-machine-svm-an-optimisation-mammoth-5daf3bc648ad) (Linear Model) (also called Hard SVM) 
 
 ## $\color{yellow}{1.2 Probabilistic\ Discriminative\ Learning}$
