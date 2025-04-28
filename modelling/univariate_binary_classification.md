@@ -5,6 +5,12 @@ We have multiple learning algorithms/models to solve binary classification probl
 These are called Discriminant based classifier because here we are trying to discriminate between the two classes i.e. find out a hyperplane via which we can separate the two classes
 
 ## $\color{yellow}{1.1 Geometric\ Discriminative\ Learning}$
+
+
+---
+
+
+
 - [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) (Linear Model) : people wrongly call this as Linear Perceptron also
 - Non Linear Classification (Non Linear Model)
   - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA)
