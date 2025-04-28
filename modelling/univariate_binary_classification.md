@@ -27,12 +27,9 @@ These are called Discriminant based classifier because here we are trying to dis
 
 - [Linear Classification](https://khetansarvesh.medium.com/math-behind-linear-classification-62e2a687b7e5) -- people wrongly call this as Linear Perceptron also
 - Non Linear Classification
-  - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA)
-    - Same as what we discussed in [polynomial regression](https://levelup.gitconnected.com/unfolding-math-for-polynomial-non-linear-regression-7ad8f486d53a#fce9). Here we great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply linear classification.Hence this results in a non linear decision boundary
-    - Here also you will find overfitting and you can use the same old techniques discussed earlier to handle overfitting. 
+  - [Polynomial Classification](https://www.youtube.com/watch?v=3liCbRZPrZA) : Same as what we discussed in [polynomial regression](https://levelup.gitconnected.com/unfolding-math-for-polynomial-non-linear-regression-7ad8f486d53a#fce9). Here we great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply linear classification.Hence this results in a non linear decision boundary
   - Domain Expert Classification
-  - Kernel Classification
-    - Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
+  - Kernel Classification : Prefer to use kernel SVM because the computation time complexity increases exponentially but the model performance also increases too much.
 
 
 ---
