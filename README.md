@@ -9,6 +9,9 @@ More information available [here](https://khetansarvesh.medium.com/tabular-data-
 This algorithm is used when your table contains dependent variable (Y) (also called target variable or labeled variable) which is to be predicted and independent variables (X1,X2,X3……). And your task is the learn the function F which forms the mapping between X and Y
 - Regression
 - Classification
+    - Univariate Binary Classification
+    - Multivariate Binary Classification or (Univariate / Multivariate) Multiclass Classification
+    - (Univariate / Multivariate) Multi Label Classification
 
 ## <ins> $\color{yellow}{Unsupervised\ Learning}$ </ins>
 This algorithm is used when your table contains only  independent variables (X1,X2,X3……) and no dependent variable (Y). Here also the task is to learn the function F which shows relation between X1, X2, X3,....
