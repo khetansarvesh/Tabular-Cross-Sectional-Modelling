@@ -34,7 +34,6 @@ These are called Discriminant based classifier because here we are trying to dis
     - Here also you will find overfitting and you can use the same old techniques discussed earlier to handle overfitting. 
   - Domain Expert Classification
   - Kernel Classification
-    - Prefer not to use kernel classification because the computation time complexity increases exponentially without much change in model performance.   
 
 
 
@@ -69,7 +68,6 @@ These are called Discriminant based classifier because here we are trying to dis
     - Same as what we discussed in polynomial regression . Here we have great matured polynomial features like x1x2 x1^2 x2^2 ...and the apply LDA.Hence this results in a non linear decision boundary. If the matured features are all 2 degree polynomials then it is called quadratic discriminant analysis (QDA). Here also same problem of overfitting will arise and we can use all the regularization techniques to solve this overfitting problem
   - Domain Expert DA
   - Kernel DA
-    - Prefer not to use because the computation time complexity increases exponentially without much change in model performance.
    
 
 ---
@@ -91,7 +89,6 @@ These are called Discriminant based classifier because here we are trying to dis
   - Polynomial Logistic Regression 
   - Domain Expert Logistic Regression
   - Kernel Logistic Regression
-    - It is advised not to use kernel classification because the computation time complexity increases exponentially without much change in model performance.
  
 
 
