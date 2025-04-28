@@ -1,5 +1,22 @@
 We have multiple learning algorithms/models to solve binary classification problems. There are 1000s of algorithms developed over the years with a different idea from different people and more such algorithms will continue to come up in the upcoming years but we study only some of the most useful and historically proven most efficient algorithms and these can be broadly split into these categories
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # $\color{cyan}{1. Discriminant\ Learning\ /\ Discriminant\ Based\ Classifier\ /\ Disriminant\ Models}$
 
 These are called Discriminant based classifier because here we are trying to discriminate between the two classes i.e. find out a hyperplane via which we can separate the two classes
@@ -84,6 +101,27 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # $\color{cyan}{2. Supervised\ Deep\ Learning}$
 - Linear Perceptron (linear model) (another representation of linear logistic regression)
   - Exactly the same as linear perceptron for regression problem just that here the output activation function used is logistic function because as we know this is just another way of representing logistic regression.Or you can use any function which ranges from 0 to 1 as the output layer activation function because we say in linear logistic regression also that we can use any other function instead of logistic function which ranges from 0 to 1. (you actually can't use any output layer activation function lying b/w 0 and 1 you need to take care that the chosen activation function does not leads to such a loss function which is saturating or lead to vanishing gradient problem (zero gradients) )
@@ -99,5 +137,35 @@ These are called Discriminant based classifier because here we are trying to dis
       - [Data Augmentation](https://levelup.gitconnected.com/data-augmentation-for-classification-ffnn-fa53c233e42e)
       - Early Stopping
       - Penalty Regularization 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# $\color{cyan}{3. Generative\ Learning\ /\ Generative\ Based\ Classifiers\ /\ Generative\ Models}$
+These are called generative classifier because here we try to understand how the two classes data was generated using bayes theorem in probability. 
+
+## $\color{yellow}{Probabilistic\ Generative\ Learning}$
+- [Gaussian Discriminant Analysis (GDA) or Bayes](https://levelup.gitconnected.com/bayes-algorithm-for-binary-classification-explained-with-equations-df6ccd977631)
+- [Naive Bayes (NB)](https://levelup.gitconnected.com/naive-bayes-nb-for-classification-explained-4fe4210d9538) (Same decision boundary as Bayes)
+- Bayesian Belief Networks (BBN)
+- Markov Random Fields (MRF)
 
 
