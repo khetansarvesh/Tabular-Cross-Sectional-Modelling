@@ -66,3 +66,16 @@ Use this when you have a huge amount of data because if you use it with less dat
     - You can find code [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Decision-Tree-Regression.ipynb).
 
 ![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/tree_algo.png)
+
+
+# $\color{cyan}{4. Ensemble\ Learning\ /\ Mixture\ Of\ Experts}$
+Let’s say you are given a non-linear regression dataset and you applied Polynomial Regression and  Polynomial SVM to it and both gave good results. Now you need a way to somehow combine both the models to get the best of both worlds, then how to do so?? Hence we use Ensemble technique wherein we can combine multiple models. It is said that Ensemble technique works best most of the time over individual models because it prevents overfitting to a great extent (hence also called a regularization technique) and also easily gives 2-3% improvement in training accuracy !!!
+
+Now models can be combined in two ways : 
+- [Parallel Ensembles](https://levelup.gitconnected.com/parallel-regression-ensemblers-be8037854336) : Construct all the models parallely independent of each other and then combine them
+- Sequential Ensembles : Construct models one after another sequentially and then combine them
+  - Stacking Ensemble : no more used and most people don't even know about this anymore
+  - [Boosting Ensemble](https://www.youtube.com/watch?v=SEekcR7wdBc) : 
+    - [Adaptive Boosting](https://www.youtube.com/watch?v=NLRO1-jp5F8) (or AdaBoost) Ensemble – decision tree : Almost same as bagging just that instead of doing simple sampling here we do weighted sampling
+    - Gradient Boosting (or Gradient Boost) Ensemble – decision tree : [Part1](https://www.youtube.com/watch?v=Nol1hVtLOSg) || [Part2](https://www.youtube.com/watch?v=Oo9q6YtGzvc)
+    - [Extreme Gradient Boosting](https://www.youtube.com/watch?v=w-_vmVfpssg&t=116s) (or XGBoost) Ensemble – decision tree
