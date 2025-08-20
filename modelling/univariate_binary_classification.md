@@ -19,6 +19,24 @@ We have multiple learning algorithms/models to solve binary classification probl
 
 These are called Discriminant based classifier because here we are trying to discriminate between the two classes i.e. find out a hyperplane via which we can separate the two classes
 
+- Linear Perceptron (Linear Model)
+- NonLinear Perceptron (NonLinear Model)
+  - Polynomial Perceptron : 
+    - Explainability : Weights can be used to explain which feature is important
+
+  - Domain Expert Perceptron : 
+    - Explainability : Weights can be used to explain which feature is important
+
+  - Kernel Perceptron : 
+    - Explainability : Weights can be used to explain which feature is important
+
+  - Artificial Neural Network (ANN) :
+    - Now the main disadvantage of all the above 3 methods is that in all the 3 methods feature extraction was to be done manually but we somehow wanted a way to do feature extraction (develop matured features) also automatically. Here we will be learning the matured features and hence you don’t need the help of a domain expert 
+    - Drawback of this method is that this method can only be used if we have a huge amount of data (rows)? why to use this only when we have a huge amount of data because you will understand that this algorithm leads to too many overfitting problems and we know that if we have lots of data we can curb overfitting and hence this algorithm is only recommended when we have a huge amount of data.
+    - Explainability !!
+
+
+
 ## $\color{yellow}{1.1 Geometric\ Discriminative\ Learning}$
 
 
