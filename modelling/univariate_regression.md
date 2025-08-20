@@ -29,3 +29,20 @@ We have multiple learning algorithms/models to solve regression problems. There 
 ---
 
 # $\color{cyan}{2. Deep\ Learning(DL)}$
+
+
+
+
+# $\color{cyan}{3. Instance\ Based\ Learning}$
+
+## $\color{yellow}{3.1 Geometric\ Instance\ Based\ Learning}$
+- K Nearest Neighbours (Piecewise Linear Model) : Same as what we saw in [KNN for classification](https://pub.towardsai.net/k-nearest-neighbours-knn-for-classification-da05a58d924b) just that here instead of majority voting we will have mean / median 
+
+## $\color{yellow}{3.2 Tree\ Based\ Learning}$
+- Decision Tree - Regression / Regression Tree (Piecewise Linear Model / Non Linear Model) 
+    - Same as what we saw in [decision tree for classification](https://khetansarvesh.medium.com/decision-tree-classification-explained-909a2fbf5993), just that here
+        - Instead of gini / entropy here we use square error loss and we consider that split which gives least squared error value on both the sides of the tree
+        - Instead of majority voting we will use mean / median here. 
+    - You can see the stat quest lecture on this [here](https://www.youtube.com/watch?v=g9c66TUylZ4).
+    - You can find code [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Decision-Tree-Regression.ipynb).
+
