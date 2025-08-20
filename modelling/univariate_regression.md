@@ -37,7 +37,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
 
 ## $\color{yellow}{3.1 Geometric\ Instance\ Based\ Learning}$
 - K Nearest Neighbours (Piecewise Linear Model) : Same as what we saw in [KNN for classification](https://pub.towardsai.net/k-nearest-neighbours-knn-for-classification-da05a58d924b) just that here instead of majority voting we will have mean / median 
-
+![Alt text]()
 ## $\color{yellow}{3.2 Tree\ Based\ Learning}$
 - Decision Tree - Regression / Regression Tree (Piecewise Linear Model / Non Linear Model) 
     - Same as what we saw in [decision tree for classification](https://khetansarvesh.medium.com/decision-tree-classification-explained-909a2fbf5993), just that here
