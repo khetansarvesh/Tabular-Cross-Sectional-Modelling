@@ -32,6 +32,11 @@ We have multiple learning algorithms/models to solve regression problems. There 
 Use this when you have a huge amount of data because if you use it with less data then it will lead to huge amount of overfitting and since it is huge data use advanced optimization techniques like adam to solve the optimization problem here so that it can converge fast instead of using gradient descent
 
 - Linear Perceptron (Linear Model)
+
+![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/ann1.png)
+
+![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/ann2.png)
+
 - NonLinear Perceptron (NonLinear Model)
   - Polynomial Perceptron : 
     - Explainability : Weights can be used to explain which feature is important
