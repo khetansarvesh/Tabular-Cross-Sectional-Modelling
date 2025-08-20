@@ -29,6 +29,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
 ---
 
 # $\color{cyan}{2. Deep\ Learning(DL)}$
+Use this when you have a huge amount of data because if you use it with less data then it will lead to huge amount of overfitting and since it is huge data use advanced optimization techniques like adam to solve the optimization problem here so that it can converge fast instead of using gradient descent
 
 
 
@@ -47,5 +48,5 @@ We have multiple learning algorithms/models to solve regression problems. There 
         - Instead of majority voting we will use mean / median here. 
     - You can see the stat quest lecture on this [here](https://www.youtube.com/watch?v=g9c66TUylZ4).
     - You can find code [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Decision-Tree-Regression.ipynb).
-    
+
 ![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/tree_algo.png)
