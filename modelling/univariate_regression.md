@@ -37,6 +37,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
 
 ## $\color{yellow}{3.1 Geometric\ Instance\ Based\ Learning}$
 - K Nearest Neighbours (Piecewise Linear Model) : Same as what we saw in [KNN for classification](https://pub.towardsai.net/k-nearest-neighbours-knn-for-classification-da05a58d924b) just that here instead of majority voting we will have mean / median 
+
 ![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/knn.png)
 
 ## $\color{yellow}{3.2 Tree\ Based\ Learning}$
@@ -46,4 +47,5 @@ We have multiple learning algorithms/models to solve regression problems. There 
         - Instead of majority voting we will use mean / median here. 
     - You can see the stat quest lecture on this [here](https://www.youtube.com/watch?v=g9c66TUylZ4).
     - You can find code [here](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/regression/Decision-Tree-Regression.ipynb).
+    
 ![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/tree_algo.png)
