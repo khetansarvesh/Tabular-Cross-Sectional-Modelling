@@ -77,5 +77,6 @@ Now models can be combined in two ways :
   - Stacking Ensemble : no more used and most people don't even know about this anymore
   - [Boosting Ensemble](https://www.youtube.com/watch?v=SEekcR7wdBc) : 
     - [Adaptive Boosting](https://www.youtube.com/watch?v=NLRO1-jp5F8) (or AdaBoost) Ensemble – decision tree : Almost same as bagging just that instead of doing simple sampling here we do weighted sampling
+    ![Alt text](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/imgs/adaboost.png)
     - Gradient Boosting (or Gradient Boost) Ensemble – decision tree : [Part1](https://www.youtube.com/watch?v=Nol1hVtLOSg) || [Part2](https://www.youtube.com/watch?v=Oo9q6YtGzvc)
     - [Extreme Gradient Boosting](https://www.youtube.com/watch?v=w-_vmVfpssg&t=116s) (or XGBoost) Ensemble – decision tree
