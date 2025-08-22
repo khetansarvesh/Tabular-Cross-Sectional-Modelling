@@ -36,8 +36,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
   - Polynomial Perceptron : for explainability weights can be used to explain which feature is important
   - Domain Expert Perceptron : for explainability weights can be used to explain which feature is important
   - Kernel Perceptron : for explainability weights can be used to explain which feature is important
-  - [Artificial Neural Network (ANN)](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8) :
-    - Explainability !!
+  - [Artificial Neural Network (ANN)](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8)
 
 
 
