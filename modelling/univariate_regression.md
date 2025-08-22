@@ -29,7 +29,6 @@ We have multiple learning algorithms/models to solve regression problems. There 
 ---
 
 # $\color{cyan}{2. Deep\ Learning(DL)}$
-Use this when you have a huge amount of data because if you use it with less data then it will lead to huge amount of overfitting and since it is huge data use advanced optimization techniques like adam to solve the optimization problem here so that it can converge fast instead of using gradient descent
 
 - [Linear Perceptron](https://khetansarvesh.medium.com/linear-perceptron-regression-10f6f1006afb) (Linear Model)
 
