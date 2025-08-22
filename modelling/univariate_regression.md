@@ -38,7 +38,6 @@ Use this when you have a huge amount of data because if you use it with less dat
   - Domain Expert Perceptron : for explainability weights can be used to explain which feature is important
   - Kernel Perceptron : for explainability weights can be used to explain which feature is important
   - [Artificial Neural Network (ANN)](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8) :
-    - Drawback of this method is that this method can only be used if we have a huge amount of data (rows)? why to use this only when we have a huge amount of data because you will understand that this algorithm leads to too many overfitting problems and we know that if we have lots of data we can curb overfitting and hence this algorithm is only recommended when we have a huge amount of data.
     - Explainability !!
 
 
