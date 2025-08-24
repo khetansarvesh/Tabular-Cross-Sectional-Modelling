@@ -21,7 +21,8 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
     - Multivariate Binary Classification or (Univariate / Multivariate) Multiclass Classification
         - Algorithms
         - Evaluation : [Part1](https://www.youtube.com/watch?v=tYZ6cpatw-w) || [Part2](https://www.youtube.com/watch?v=vP06aMoz4v8)
-    - (Univariate / Multivariate) Multi Label Classification
+    - (Univariate / Multivariate) Multi Label Classification : Now in Multi Class Classification you saw that one of the k classes can have 1 and rest will have 0 but in multi label classification m out of k classes can have 1 and rest k-m classes will have 0. Hence multi class classification is also called one of k class classification.
+
 
 ## <ins> $\color{yellow}{Unsupervised\ Learning}$ </ins>
 This algorithm is used when your table contains only  independent variables (X1,X2,X3……) and no dependent variable (Y). Here also the task is to learn the function F which shows relation between X1, X2, X3,....
