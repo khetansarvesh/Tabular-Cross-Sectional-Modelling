@@ -20,7 +20,7 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
         - Evaluation
     - Multivariate Binary Classification or (Univariate / Multivariate) Multiclass Classification
         - Algorithms
-        - Evaluation 
+        - Evaluation : Part1 || [Part2](https://www.youtube.com/watch?v=vP06aMoz4v8)
     - (Univariate / Multivariate) Multi Label Classification
 
 ## <ins> $\color{yellow}{Unsupervised\ Learning}$ </ins>
