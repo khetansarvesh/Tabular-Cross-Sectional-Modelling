@@ -10,7 +10,7 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
 - Regression
     - Univariate Regression : Single Target Variable
         - [Algorithms](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_regression.md)
-        - Evaluation 
+        - [Evaluation](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_regression_eval.md) 
     - Multivariate Regression : Multiple Target Variable
         - [Algorithms](https://khetansarvesh.medium.com/multivariate-regression-4b828cf88437)
         - Evaluation 
