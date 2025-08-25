@@ -23,8 +23,7 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
         - Evaluation : [Part1](https://www.youtube.com/watch?v=tYZ6cpatw-w) || [Part2](https://www.youtube.com/watch?v=vP06aMoz4v8)
     - (Univariate / Multivariate) Multi Label Classification :
         - Now in Multi Class Classification you saw that one of the k classes can have 1 and rest will have 0 but in multi label classification m out of k classes can have 1 and rest k-m classes will have 0. Hence multi class classification is also called one of k class classification.
-        - The primary change here is the usage of Binary cross-entropy with logits (BCEWithLogitsLoss) loss function instead of vanilla cross-entropy loss (CrossEntropyLoss) that is used for multiclass classification.
-        - Binary cross-entropy loss allows our model to assign independent probabilities to the labels instead of applying softmax function.
+        - The primary change here is the usage of Binary cross-entropy with logits (BCEWithLogitsLoss) loss function instead of vanilla cross-entropy loss (CrossEntropyLoss) that is used for multiclass classification. Binary cross-entropy with logits loss allows our model to assign independent probabilities to the labels instead of applying softmax function.
 
 
 ## <ins> $\color{yellow}{Unsupervised\ Learning}$ </ins>
