@@ -19,7 +19,7 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
         - [Algorithms](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_binary_classification.md)
         - [Evaluation](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_classification_eval.md)
     - Multivariate Binary Classification or (Univariate / Multivariate) Multiclass Classification
-        - Algorithms
+        - [Algorithms](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/multivariate_binary_classification.md)
         - Evaluation : [Part1](https://www.youtube.com/watch?v=tYZ6cpatw-w) || [Part2](https://www.youtube.com/watch?v=vP06aMoz4v8)
     - (Univariate / Multivariate) Multi Label Classification :
         - Now in Multi Class Classification you saw that one of the k classes can have 1 and rest will have 0 but in multi label classification m out of k classes can have 1 and rest k-m classes will have 0. Hence multi class classification is also called one of k class classification.
