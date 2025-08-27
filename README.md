@@ -17,7 +17,7 @@ This algorithm is used when your table contains dependent variable (Y) (also cal
 - Classification
     - Univariate Binary Classification
         - [Algorithms](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_binary_classification.md)
-        - Evaluation
+        - [Evaluation](https://github.com/khetansarvesh/Tabular-Cross-Sectional-Modelling/blob/main/modelling/univariate_classification_eval.md)
     - Multivariate Binary Classification or (Univariate / Multivariate) Multiclass Classification
         - Algorithms
         - Evaluation : [Part1](https://www.youtube.com/watch?v=tYZ6cpatw-w) || [Part2](https://www.youtube.com/watch?v=vP06aMoz4v8)
