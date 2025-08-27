@@ -29,7 +29,6 @@ These are called Discriminant based classifier because here we are trying to dis
   - Kernel Logistic Regression
  
 
----
 
 
 ## $\color{yellow}{1.2 Geometric\ Discriminative\ Learning}$
