@@ -120,16 +120,7 @@ convert into multiple binary class classification problem and train multiple mod
 
 
 # $\color{cyan}{2. Supervised\ Deep\ Learning}$
-- Linear Perceptron (linear model) (another representation of multiclass linear logistic regression)
-  - The cost function used here is the one defined in multiclass linear logistic regression
-  - the activation function for the output layer node has to be logistic function / softmax function
- 
-- Non Linear Perceptron
-  - Polynomial Perceptron
-  - Domain Expert Perceptron
-  - Kernel Perceptron
-  - ANN
-
+You can read more about this in the following blog post.
 
 
 
