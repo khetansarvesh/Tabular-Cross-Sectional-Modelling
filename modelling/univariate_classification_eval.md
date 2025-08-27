@@ -1,1 +1,6 @@
-Now it is very difficult to decide which algorithm or model to use on the given dataset hence we use hit and trial method (technically called a hypothesis) and finally choose that model which gives the best predictions(But sometimes you can make a guess that which algorithm will give best results but using data visualization for this you need to use dimensionality reduction technique to reduce the data to just two features and the make a scatter plot of X1 X2 and Y)Now how should one decide which algorithm is giving the best prediction? Using these evaluation metrics given below (but before using these you first need to make confusion matrix):
+Now it is very difficult to decide which algorithm or model to use on the given dataset hence we use hit and trial method and finally choose that model which gives the best predictions. How to decide which model is best? Obviously, the one which gives the best predictions and to check how good predictions a model gives we have several ways and these are called evaluation metrics / performance parameter / goodness of fit. Some of the most famous evaluation metrics are as follows.
+
+
+
+
+Another heuristic way to decide which model will work best for your data is via data visualization. For this you need to use dimensionality reduction technique to reduce the data to just two features and the make a scatter plot of X1 X2 and Y
