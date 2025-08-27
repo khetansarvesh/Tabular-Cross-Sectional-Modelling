@@ -19,7 +19,20 @@ We have multiple learning algorithms/models to solve binary classification probl
 
 These are called Discriminant based classifier because here we are trying to discriminate between the two classes i.e. find out a hyperplane via which we can separate the two classes
 
-## $\color{yellow}{1.1 Geometric\ Discriminative\ Learning}$
+
+
+## $\color{yellow}{1.1 Probabilistic\ Discriminative\ Learning}$
+- Linear Logistic Regression
+- Non Linear Logistic Regression
+  - Polynomial Logistic Regression 
+  - Domain Expert Logistic Regression
+  - Kernel Logistic Regression
+ 
+
+---
+
+
+## $\color{yellow}{1.2 Geometric\ Discriminative\ Learning}$
 
 
 ---
@@ -79,16 +92,7 @@ convert into multiple binary class classification problem and train multiple mod
 
 
 
----
 
-
-## $\color{yellow}{1.2 Probabilistic\ Discriminative\ Learning}$
-- [Linear Logistic Regression](https://khetansarvesh.medium.com/mathematical-orgasm-for-logistic-regression-40b404266e54)
-- Non Linear Logistic Regression
-  - Polynomial Logistic Regression 
-  - Domain Expert Logistic Regression
-  - Kernel Logistic Regression
- 
 
 
 
