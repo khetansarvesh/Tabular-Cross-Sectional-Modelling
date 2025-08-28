@@ -22,7 +22,7 @@ These are called Discriminant based classifier because here we are trying to dis
 
 
 ## $\color{yellow}{1.1 Probabilistic\ Discriminative\ Learning}$
-- Linear Logistic Regression
+- [Linear Logistic Regression](https://khetansarvesh.medium.com/multi-class-linear-logistic-regression-linear-softmax-regression-fac5569387df)
 - Non Linear Logistic Regression
   - Polynomial Logistic Regression 
   - Domain Expert Logistic Regression
