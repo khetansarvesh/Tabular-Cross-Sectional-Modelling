@@ -120,7 +120,7 @@ convert into multiple binary class classification problem and train multiple mod
 
 
 # $\color{cyan}{2. Supervised\ Deep\ Learning}$
-You can read more about this in the following blog post.
+You can read more about this in the following [blog post](https://khetansarvesh.medium.com/supervised-deep-learning-for-multiclass-classification-f7d3838d0490).
 
 
 
