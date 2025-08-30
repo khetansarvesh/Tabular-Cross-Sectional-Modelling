@@ -42,7 +42,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
               - Partial Dependence Plot (PDP)
               - Class Activation Mapping (CAM)
               - [LIME](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
-              - [most used]SHapley Additive exPlanations[SHAP](https://www.youtube.com/watch?v=9haIOplEIGM)
+              - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
               - [Adverserial and Conterfactual Examples Based Methods](https://www.youtube.com/watch?v=UUZxRct8rIk)
               - Perturbation
           - Model (Deep Learning) Specific Methods - Gradient Methods:
