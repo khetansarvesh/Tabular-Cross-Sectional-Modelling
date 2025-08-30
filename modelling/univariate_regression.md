@@ -50,10 +50,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
               - Integrated Gradients
               - Smooth Gradients
           - For explainability of intermediate features, we have following methods :
-              - [Dataset Examples](https://www.youtube.com/watch?v=y0-ISRhL4Ks&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=3) :
-                  - Feature Visualization
-                  - Activation Maimization
-                  - TCVA
+              - [Feature Visualization](https://www.youtube.com/watch?v=lg1-M8hEX50)
               - [Probes](https://www.youtube.com/watch?v=HJn-OTNLnoE&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=4)
               - [Cannonical Correlation Analysis (CCA)](https://www.youtube.com/watch?v=u7Dvb_a1D-0&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=6) : 
                   - SV_CCA
