@@ -41,11 +41,6 @@ We have multiple learning algorithms/models to solve regression problems. There 
           - [Local Interpretable Model-agnostic Explanations (LIME)](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
           - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
       - Model (Deep Learning) Specific Methods: For explainability of outputs and intermediate features, we have [Feature Visualization](https://www.youtube.com/watch?v=lg1-M8hEX50) method
-          -  For explainability of output, we have following methods :
-              - [Layerwise Relevance Propogation (LRP)](https://www.youtube.com/watch?v=PDRewtcqmaI)
-              - Gradient Saliency Maps
-              - Integrated Gradients
-              - Smooth Gradients
 
 
 
