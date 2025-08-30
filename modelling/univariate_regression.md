@@ -37,6 +37,27 @@ We have multiple learning algorithms/models to solve regression problems. There 
   - Domain Expert Perceptron : for explainability weights can be used to explain which feature is important
   - Kernel Perceptron : for explainability weights can be used to explain which feature is important
   - [Artificial Neural Network (ANN)](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8)
+      - For explainability of intermediate features, we have following methods :
+          - [Dataset Examples](https://www.youtube.com/watch?v=y0-ISRhL4Ks&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=3) :
+              - Feature Visualization
+              - Activation Maimization
+              - TCVA
+          - [Probes](https://www.youtube.com/watch?v=HJn-OTNLnoE&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=4)
+          - [Cannonical Correlation Analysis (CCA)](https://www.youtube.com/watch?v=u7Dvb_a1D-0&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=6) : 
+              - SV_CCA
+              - PW_CCA
+      - For explainability of output, we have following methods :
+          - Model Agnostic Methods i.e. these will work on all types of models like regression / deep learning / decision trees / ... :
+              - [LIME](https://www.youtube.com/watch?v=d6j6bofhj2M)
+              - [SHAP](https://www.youtube.com/watch?v=9haIOplEIGM)
+              - Perturbation
+              - Example Based Methods :
+                  - Adverserial Examples
+                  - Conterfactual Examples  
+          - Model (Deep Learning) Specific Methods :
+              - Gradient Saliency Maps
+              - Integrated Gradients
+              - Attention 
 
 
 
