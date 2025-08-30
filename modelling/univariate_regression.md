@@ -38,8 +38,6 @@ We have multiple learning algorithms/models to solve regression problems. There 
   - Kernel Perceptron : for explainability weights can be used to explain which feature is important
   - [Artificial Neural Network (ANN)](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8)
       - Model Agnostic Methods :
-          - Partial Dependence Plot (PDP)
-          - Class Activation Mapping (CAM)
           - [Local Interpretable Model-agnostic Explanations (LIME)](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
           - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
       - Model (Deep Learning) Specific Methods: For explainability of outputs and intermediate features, we have [Feature Visualization](https://www.youtube.com/watch?v=lg1-M8hEX50) method
