@@ -45,10 +45,10 @@ We have multiple learning algorithms/models to solve regression problems. There 
               - Class Activation Mapping (CAM)
               - [Adverserial and Conterfactual Examples Based Methods](https://www.youtube.com/watch?v=UUZxRct8rIk)
               - Perturbation
-          - Model (Deep Learning) Specific Methods :
+          - Model (Deep Learning) Specific Methods - Gradient Methods:
               - Gradient Saliency Maps
               - Integrated Gradients
-              - Attention
+              - Smooth Gradients
       - For explainability of intermediate features, we have following methods :
           - [Dataset Examples](https://www.youtube.com/watch?v=y0-ISRhL4Ks&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=3) :
               - Feature Visualization
