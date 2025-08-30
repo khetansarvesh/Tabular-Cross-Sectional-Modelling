@@ -40,6 +40,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
       - Model Agnostic Methods :
           - [Local Interpretable Model-agnostic Explanations (LIME)](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
           - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
+        This is amazing must read [blog](https://blog.ml.cmu.edu/2020/08/31/6-interpretability/) on SHAP and LIME by CMU.
       - Model (Deep Learning) Specific Methods: For explainability of input and intermediate features, we have [Feature Visualization](https://www.youtube.com/watch?v=lg1-M8hEX50) method
 
 
