@@ -41,7 +41,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
           - Model Agnostic Methods :
               - Partial Dependence Plot (PDP)
               - Class Activation Mapping (CAM)
-              - [LIME](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
+              - [Local Interpretable Model-agnostic Explanations (LIME)](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
               - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
               - [Adverserial and Conterfactual Examples Based Methods](https://www.youtube.com/watch?v=UUZxRct8rIk)
               - Perturbation
