@@ -42,19 +42,12 @@ We have multiple learning algorithms/models to solve regression problems. There 
           - Class Activation Mapping (CAM)
           - [Local Interpretable Model-agnostic Explanations (LIME)](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
           - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
-      - Model (Deep Learning) Specific Methods:
+      - Model (Deep Learning) Specific Methods: For explainability of outputs and intermediate features, we have [Feature Visualization](https://www.youtube.com/watch?v=lg1-M8hEX50) method
           -  For explainability of output, we have following methods :
               - [Layerwise Relevance Propogation (LRP)](https://www.youtube.com/watch?v=PDRewtcqmaI)
               - Gradient Saliency Maps
               - Integrated Gradients
               - Smooth Gradients
-          - For explainability of intermediate features, we have following methods :
-              - [Feature Visualization](https://www.youtube.com/watch?v=lg1-M8hEX50)
-              - [Probes](https://www.youtube.com/watch?v=HJn-OTNLnoE&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=4)
-              - [Cannonical Correlation Analysis (CCA)](https://www.youtube.com/watch?v=u7Dvb_a1D-0&list=PLTx9yCaDlo1UN8ACYqzjq2tj2m2sVr3gB&index=6) : 
-                  - SV_CCA
-                  - PW_CCA
-
 
 
 
