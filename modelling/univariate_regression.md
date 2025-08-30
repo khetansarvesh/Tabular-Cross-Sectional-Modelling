@@ -42,10 +42,9 @@ We have multiple learning algorithms/models to solve regression problems. There 
           - Class Activation Mapping (CAM)
           - [Local Interpretable Model-agnostic Explanations (LIME)](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
           - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
-          - [Adverserial/Conterfactual Examples](https://www.youtube.com/watch?v=UUZxRct8rIk)
-          - Perturbation
       - Model (Deep Learning) Specific Methods:
           -  For explainability of output, we have following methods :
+              - Adverserial/Conterfactual Examples
               - [Layerwise Relevance Propogation (LRP)](https://www.youtube.com/watch?v=PDRewtcqmaI)
               - Gradient Saliency Maps
               - Integrated Gradients
