@@ -46,6 +46,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
               - [Adverserial and Conterfactual Examples Based Methods](https://www.youtube.com/watch?v=UUZxRct8rIk)
               - Perturbation
           - Model (Deep Learning) Specific Methods - Gradient Methods:
+              - [Layerwise Relevance Propogation (LRP)](https://www.youtube.com/watch?v=PDRewtcqmaI)
               - Gradient Saliency Maps
               - Integrated Gradients
               - Smooth Gradients
