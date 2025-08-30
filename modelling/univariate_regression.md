@@ -39,7 +39,7 @@ We have multiple learning algorithms/models to solve regression problems. There 
   - [Artificial Neural Network (ANN)](https://khetansarvesh.medium.com/artificial-neural-networks-anns-9ec2d198bbd8)
       - For explainability of output, we have following methods :
           - Model Agnostic Methods :
-              - [LIME](https://www.youtube.com/watch?v=d6j6bofhj2M)
+              - [LIME](https://www.youtube.com/watch?v=d6j6bofhj2M) : it has variations like C-Lime and Bayes Lime
               - [SHAP](https://www.youtube.com/watch?v=9haIOplEIGM)
               - [Adverserial and Conterfactual Examples Based Methods](https://www.youtube.com/watch?v=UUZxRct8rIk)
               - Perturbation
