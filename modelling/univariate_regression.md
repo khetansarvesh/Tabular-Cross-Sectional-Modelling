@@ -44,7 +44,6 @@ We have multiple learning algorithms/models to solve regression problems. There 
           - [most used] [SHapley Additive exPlanations (SHAP)](https://www.youtube.com/watch?v=9haIOplEIGM)
       - Model (Deep Learning) Specific Methods:
           -  For explainability of output, we have following methods :
-              - Adverserial/Conterfactual Examples
               - [Layerwise Relevance Propogation (LRP)](https://www.youtube.com/watch?v=PDRewtcqmaI)
               - Gradient Saliency Maps
               - Integrated Gradients
