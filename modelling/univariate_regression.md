@@ -41,10 +41,8 @@ We have multiple learning algorithms/models to solve regression problems. There 
           - Model Agnostic Methods i.e. these will work on all types of models like regression / deep learning / decision trees / ... :
               - [LIME](https://www.youtube.com/watch?v=d6j6bofhj2M)
               - [SHAP](https://www.youtube.com/watch?v=9haIOplEIGM)
+              - [Adverserial and Conterfactual Examples Based Methods](https://www.youtube.com/watch?v=UUZxRct8rIk)
               - Perturbation
-              - Example Based Methods :
-                  - Adverserial Examples
-                  - Conterfactual Examples  
           - Model (Deep Learning) Specific Methods :
               - Gradient Saliency Maps
               - Integrated Gradients
